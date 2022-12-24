@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Currently a first year student studying Computer Science at RPI (Rensselaer Polytechnic Institute) with interests in Computer Systems, A.I, and generally anything awesome.
 
 
